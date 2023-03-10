@@ -1,0 +1,15 @@
+body p{
+    color: red;
+}
+body span{
+    color: green;
+}
+#modern{
+color: yellow;
+}
+.ballz{
+    color:black
+}
+body>span{
+    color: purple
+}

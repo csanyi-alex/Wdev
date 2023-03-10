@@ -1,0 +1,77 @@
+@keyframes monke_go_grayscale {
+    0%{filter: grayscale(0%);}
+    100%{filter: grayscale(100%);}
+    
+}
+
+body{
+    background-color: black;
+}
+
+#piros{
+    background-color: red;
+    width:150px;
+}
+
+#kék{
+    background-color: blue;
+    width: 75%;
+}
+
+#szürke-akármicsoda{
+    background-color: gray;
+    width: 50%;
+}
+
+#zöld{
+    background-color: lime;
+    width: 75vw;
+}
+
+#lila{
+    background-color: rgb(140, 9, 149);
+    height: 9vh;
+}
+
+#citrom{
+    background-color: yellow;
+}
+
+#standard-size div{
+    width: 45%;
+    height: 40px;
+}
+
+#border{
+    border: 50px  white solid;
+    background-color: orange;
+}
+#border:hover{
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: rgb(0, 255, 247);
+    border-width: 500px;
+    background-color: rgb(255, 0, 0);
+}
+#monke:hover{
+
+    animation: monke_go_grayscale 1s forwards;
+
+}
+#margin{
+    background-color: blanchedalmond;
+    margin-top:50px;
+    margin-left: 50px;
+}
+#padding{
+    padding: 100000cm;
+}
+#belsokulsobelsoizemaelgemvanadivekbolmegfogokhalniangoloramegbordasdalaaaaaaaaaaa{
+    background-color: rosybrown;
+    height: auto !important;
+    padding: 20px 40px 60px 80px;
+}
+#kozep{
+    background-color: yellow;
+    margin: auto;
+}
