@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'comicsans';
+    src: url('COMIC.TTF');
+}
+
+#Lorem{
+    font-weight: bold;
+}
+
+h1{
+    font-weight: normal;
+}
+
+p{
+    font-style: italic;
+    font-size: 1vw;
+}
+
+#consectetur{
+    font-size: 2em;
+}
+
+#elit{
+    font-size: 2.5rem;
+}
+
+#porro{
+    color: rgba(35,12,76,0.8);
+    font-family: 'comicsans';
+    background-color: rgb(56, 66, 0);
+    font-size: 500px;
+}
